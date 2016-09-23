@@ -1,0 +1,198 @@
+body {
+font : 153% "Trebuchet MS", Arial,  Helvetica, Tahoma, sans-serif;
+background : #fff;
+color : #555;
+}
+.content{
+	overflow: scroll;
+	clear: both;
+	width: 100%;
+	margin: 0 auto;
+	background: url(/assets/images/artleo.com-7982.jpg);
+
+}
+.buttonl{
+	position: absolute;
+	text-align: center;
+	left: 30%;
+	top: 100px;
+	outline: 1px solid #ddd;
+	border-top: 1px solid #555;
+	padding: 10px;
+	background: white;
+}
+.buttonr{
+	position: absolute;
+	text-align: center;
+	right:30%;
+	top: 100px;
+	outline: 1px solid #ddd;
+	border-top: 1px solid #555;
+	padding: 18px;
+	background: white;
+}
+.buttonpred{
+	position: absolute;
+	text-align: center;
+	left: 20%;
+	top: 100px;
+	outline: 1px solid #ddd;
+	border-top: 1px solid #555;
+	padding: 14px;
+	background: white;
+}
+.buttonrpred{
+	position: absolute;
+	text-align: center;
+	right: 15%;
+	top: 100px;
+	outline: 1px solid #ddd;
+	border-top: 1px solid #555;
+	padding: 18px;
+	background: white;
+}
+.studentsright{
+	position: absolute;
+	text-align: center;
+	right:25%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 15px;
+	background: white;
+}
+.studentsleft{
+	position: absolute;
+	text-align: center;
+	left: 23%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}
+.teachr{
+	position: absolute;
+	text-align: center;
+	right:23%;
+	top: 100px;
+	outline: 1px solid #ddd;
+	border-top: 1px solid #555;
+	padding: 17px;
+	background: white;
+}
+.glav{
+	position: absolute;
+	left: 10%;
+}
+/*.wievnapr{
+	position: absolute;
+	text-align: center;
+	left: 20%;
+	right: 20%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}*/
+TABLE{
+	background: white;
+}
+.svod{
+	position: absolute;
+	text-align: center;
+	left: 20%;
+	right: 20%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}
+.POSTRIK{
+	position: absolute;
+	text-align: center;
+/*	left: 20%;
+	right: 20%;
+	top: 100px;*/
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}
+.knoprkinapr{
+	position: absolute;
+/*	text-align: center;*/
+	margin-top: 10px;
+	left: 20%;
+	right: 20%;
+	top: 470px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 20px;
+	background: white;
+}
+.glav2{
+	position: absolute;
+	left: 20%;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}
+.veddob{
+	position: absolute;
+	text-align: center;
+	left: 36%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}
+.veddob2{
+	position: absolute;
+	text-align: center;
+	left: 43%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 24px;
+	background: white;
+}
+.napradd{
+	position: absolute;
+	text-align: center;
+	right: 40%;
+	top: 100px;
+	outline: 1px solid #333;
+	border-top: 1px solid #333;
+	padding: 15px;
+	background: white;
+}
+/*.ctrl{
+	margin: auto;
+	width: 800px;
+}*/
+
+.lol{
+	margin: -11px;
+	width: 45px;
+}
+.lel{
+	margin:-11px;
+	width: 55px;
+}
+.lal{
+	margin: -5px -5px;
+	width: 25px;
+}
+body{
+	background: url();
+	background-size: 100%;
+	overflow: hidden;
+}
+h1{
+	text-align: center;
+}

@@ -1,0 +1,122 @@
+html, body {
+margin : 0;
+padding : 0;
+}
+body {
+font : 73% "Trebuchet MS", Arial,  Helvetica, Tahoma, sans-serif;
+background : #fff;
+color : #555;
+}
+			/*WRAP*/
+#wrap {
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+/*margin-top: 180px;*/
+padding: 0;
+color : #555;
+}
+			/*TOP BANNER*/
+#masthead {
+height:0;
+padding: 0;
+margin-bottom: 0;
+display:none;
+margin-top: 0;
+}
+			/*MAIN CONTAINER*/
+#container {
+/*margin-top: 140 px;*/
+border: 0px solid #aaa;
+margin-left: 0;
+margin-right: 0;
+padding: 0;
+line-height: 1.8em;
+font-size:17 px;
+
+}
+			/*MAIN CONTENT*/
+#content {
+padding: 0 1em 0 1em;
+margin: 0 0 0 0;
+border-right: 1px solid #eee;
+}
+
+			/*TYPOGRAPHY*/
+h1 {
+margin: 0;
+padding: 0 0 0 0;
+font-size: 175%;
+letter-spacing: 5px;
+color: #143D55;
+display:none;
+}
+h2 {
+margin: 0;
+padding: 0 0 0 0;
+font-size: 160%;
+letter-spacing: 3px;
+color: green;
+display:none;
+}
+blockquote {
+padding: 15px;
+font-weight : bold;
+font-style : italic;
+border-bottom: 1px solid #aaa;
+border-top: 1px solid #aaa;
+color : #b29b35;visibility:hidden;
+}
+			/*LINKS*/
+a:link, a:visited {
+color : #bbb;
+background : inherit;
+text-decoration : underline;
+}
+a:hover {
+color : #143D55;
+background : inherit;
+text-decoration : none;
+}
+table {
+width : 297 mm;
+border-spacing: 0;
+}
+td {
+text-align: center;
+height: 3 px;
+font-size: 12px;
+min-width: 8px;
+font-family: 'Times New Roman', serif;
+letter-spacing: -0.05em;
+}
+td.stud{
+text-align: left;
+}
+.button 
+{
+display:none;
+}
+select
+{
+display:none;
+}
+.inviz
+{
+display:none;
+align:left;
+}
+.print
+{
+display:table;
+}
+checkbox
+{
+display:none;
+}
+.itog
+{
+	background-color: white;
+	font:black;
+	font-weight: bolder;
+	}
